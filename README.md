@@ -3,10 +3,10 @@
 * **LibreWolf:** https://codeberg.org/librewolf/source/releases/latest
 # Extensions #
 * **Dark Reader:** https://github.com/darkreader/darkreader/releases/latest
-* **Phantom:** https://phantom.app/en-GB/download (:x: Open source)
-* **Pocket Universe:** https://dash.pocketuniverse.app/ref/U2KW (:x: Open source) (Disable "Enable $20K Insurance")
+* **Phantom:** https://phantom.app/en-GB/download (❌)
+* **Pocket Universe:** https://dash.pocketuniverse.app/ref/U2KW (❌) (Disable "Enable $20K Insurance")
 * **Rabby Wallet:** https://github.com/RabbyHub/Rabby/releases/latest
-* **Ronin Wallet:** https://wallet.roninchain.com (:x: Open source)
+* **Ronin Wallet:** https://wallet.roninchain.com (❌)
 * **SponsorBlock for YouTube:** https://github.com/ajayyy/SponsorBlock/releases/latest
 * **Unisat Wallet:** https://github.com/unisat-wallet/extension/releases/latest
 * **YouTube Nonstop:** https://github.com/lawfx/YoutubeNonStop/blob/master/README.md
@@ -24,8 +24,8 @@
 # System apps #
 * **Vencord:** https://github.com/Vencord/Installer/releases/latest
 * **Windows Debloater:** https://github.com/LeDragoX/Win-Debloat-Tools
-* **f.lux:** https://justgetflux.com (:x: Open source)
-* **Revo Uninstaller:** https://www.revouninstaller.com/revo-uninstaller-free-download (:x: Open source)
+* **f.lux:** https://justgetflux.com (❌)
+* **Revo Uninstaller:** https://www.revouninstaller.com/revo-uninstaller-free-download (❌)
 * **ShareX:** https://github.com/ShareX/ShareX/releases/latest
 * **Spicetify:** https://spicetify.app/docs/getting-started
 * **Notepad++:** https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
