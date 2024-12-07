@@ -20,7 +20,6 @@
 * Transparency report: https://proton.me/legal/transparency
 # Recommendations #
 * **Search engine:** https://duckduckgo.com
-* **Powershell (Admin):** Get-AppxPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 # System apps #
 * **Vencord:** https://github.com/Vencord/Installer/releases/latest
 * **Windows Debloater:** https://github.com/LeDragoX/Win-Debloat-Tools
